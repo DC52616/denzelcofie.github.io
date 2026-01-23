@@ -119,7 +119,7 @@ layout: default
       <h2>Technical Skills</h2>
       <div class="skills-grid">
         <div class="skill-category">
-          <h3><i class="fas fa-cogs"></i> Design &
+          <h3><i class="fas fa-cogs"></i>Design &
             Manufacturing</h3>
           <div class="skill-tags">
             <span class="skill-tag">CAD/CAM/FEA</span>
