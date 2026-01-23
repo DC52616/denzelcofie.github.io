@@ -1,13 +1,13 @@
 # Site settings
 # IMPORTANT: Update 'url' below with your GitHub username (replace 'your-username' with your actual username)
-title: "MESGRO - Robotics & Mechatronics Portfolio"
-description: "An open-source template for showcasing robotics and mechatronics projects with 3D models, schematics, and code"
+title: "Denzel Cofie"
+description: "My passions, projects, and hobbies exploring engineering, design, and robotics"
 url: "https://dc52616.github.io"
 baseurl: ""
 author: "Denzel Cofie"
 email: "cofiedenzel@gmail.com"
 github_username: "DC52616"
-linkedin_username: "https://www.linkedin.com/in/your-profile"
+linkedin_username: "www.linkedin.com/in/denzel-cofie-a9b376235"
 twitter_username: "your-twitter-handle"
 
 # Build settings
@@ -64,21 +64,21 @@ navigation:
 
 # Project categories
 project_categories:
-  - name: "Robotics"
-    slug: "robotics"
-    description: "Autonomous robots and robotic systems"
-  - name: "Mechatronics"
-    slug: "mechatronics"
-    description: "Integration of mechanical, electrical, and software systems"
-  - name: "Arduino"
-    slug: "arduino"
-    description: "Arduino-based projects and prototypes"
-  - name: "3D Printing"
-    slug: "3d-printing"
-    description: "Custom 3D printed components and designs"
-  - name: "IoT"
-    slug: "iot"
-    description: "Internet of Things devices and applications"
+  - name: "Personal projects"
+    slug: "personal projects"
+    description: "self designed projects"
+  - name: "Class projects"
+    slug: "coursework"
+    description: "Highlights from my engineering coursework at Stanford"
+  - #name: "Arduino"
+    #slug: "arduino"
+    #description: "Arduino-based projects and prototypes"
+  - #name: "3D Printing"
+    #slug: "3d-printing"
+    #description: "Custom 3D printed components and designs"
+  - #name: "IoT"
+    #slug: "iot"
+    #description: "Internet of Things devices and applications"
 
 # 3D Model settings
 models:
