@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About me
-permalink: /about_me/
+permalink: /about/
 ---
 
 <div class="hero-section" style="padding: 100px 0; background: var(--background-color); border-bottom: 1px solid var(--border-color); text-align: center;">
